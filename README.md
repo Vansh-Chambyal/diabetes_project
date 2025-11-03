@@ -2,6 +2,7 @@
 
 "This project is an end-to-end machine learning pipeline to predict the risk of hospital readmission for diabetes patients. The goal is to classify a patient into one of three categories: being readmitted in less than 30 days, more than 30 days, or not at all. This is a critical problem for hospitals, as reducing early readmissions improves patient care and lowers costs.
 
+# data set link-- https://www.kaggle.com/datasets/brandao/diabetes
 # My process involved two main stages:
 
 # Preprocessing & Feature Engineering: 
